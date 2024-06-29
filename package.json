@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AnuragTheCoder.github.io/PortFolio-Website",
   "dependencies": {
     "classnames": "^2.3.2",
     "modern-normalize": "^1.1.0",
@@ -31,6 +32,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "serve": "serve -s build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
