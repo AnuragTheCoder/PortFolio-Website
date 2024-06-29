@@ -35,9 +35,7 @@ const TechSkills = () => {
       <li className={s.techIcon}>
         <DiSass />
       </li>
-      <li className={s.techIcon}>
-        <SiAmazonaws />
-      </li>
+
       <li className={s.techIcon}>
         <SiRedux />
       </li>

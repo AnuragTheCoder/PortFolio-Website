@@ -21,9 +21,9 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a React Native Developer with two years of
+              I'm a React Developer with one year of
               experience <br />
-              creating mobile apps for the iOS, Android, and Web
+              creating web-apps  Android, and Web
               platforms.
             </p>
 
@@ -31,14 +31,14 @@ const IntroSection = () => {
               My skills include proficiency in{' '}
               <i>
                 <b className={s.purple}>
-                  TypeScript, React, React Native,
+                  TypeScript, React, Tailwind, Node.js, <br />Mongoose,MongoDb,Express
                 </b>
               </i>
               <br />
               and other relevant technologies. I have experience in
               integrating various <br />
-              third-party libraries, API integration, push
-              notifications and analytics.
+              third-party libraries, API integration, Rest-Api Making,<br />
+              Problem Solving and Data Structures and Algorithms
             </p>
 
             <p>
@@ -64,7 +64,7 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="https://github.com/vsnaichuk"
+              href="https://github.com/AnuragTheCoder"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -75,7 +75,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.facebook.com/Snaychuk"
+              href="https://www.facebook.com/Anurag_Jha"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -86,7 +86,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://t.me/snaichuk_v"
+              href="https://t.me/Anurag.Jha"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -97,7 +97,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/anurag-jha-015912250/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
