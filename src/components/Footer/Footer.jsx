@@ -41,7 +41,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://t.me/Anurag.Jha"
+                href="https://t.me/anuragthecoder"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="TelegramPlane"

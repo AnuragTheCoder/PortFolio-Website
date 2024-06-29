@@ -1,63 +1,63 @@
 const data = [
   {
     id: '1',
-    title: 'Syntho',
+    title: 'Aero-Management',
     description:
-      'Syntho is an electronic music education application. Connect with like minded users as you build your own custom profile, communicate and share music via the newsfeed.',
+      'A full stack Web-app to book flights update them delete them a Admin panel to add Flights a user-panel to view flights with full protected routes and added middlewares',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
+      src: 'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719658516/Screenshot_119_fknjrr.png',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/syntho/id1615419392',
+      site: 'https://aero-management-3.onrender.com/',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#react-native-web',
-      '#mobx-state-tree',
-      '#expo',
-      '#i18next',
+      '#javascript',
+      '#react',
+      '#tailwind-css',
+      '#Node.js',
+      '#MongoDb',
+      '#Express.js',
       '#react-navigation',
-      '#sentry',
+      '#mongoose',
     ],
   },
   {
     id: '2',
-    title: 'Minfin - Currency Rates',
+    title: 'News-Setinment-Analysis',
     description:
-      'Minfin Currency - application with all necessary information about currency: from currency rates - to the nearest places where you can exchange currency in your city.',
+      'Codin club roup project to analyse sentiment of the news',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671563302/portfolio/projects/minfin/Screenshot_2022-12-20_at_21.06.43_vl5h6k.jpg',
+      src: 'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719667612/Screenshot_246_laoxoj.png',
       placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+        'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719667612/Screenshot_246_laoxoj.png',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/minfin-currency-rates/id1574863878',
+      site: 'https://github.com/Ashish2255/news_sentiment_analysis?tab=readme-ov-file',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#mobx-keystone',
-      '#i18next',
-      '#firebase-analytics',
-      '#google-maps',
+      '#django',
+      '#python-libraries',
+      '#py-torch',
+      '#HTML',
+      '#CSS',
+      '#Javascript',
     ],
   },
   {
     id: '3',
-    title: 'Outfitr',
+    title: 'SWC iitg/8Icragee ',
     description:
-      'A react native app with animations made with react-native-reanimated. The app is based on the Outfitr - Fashion UI Kit.',
+      'A official project of iitg to register and accomodate delegates students and accompanying persons. made entire user backend routes controllers models, setted up the server and Integrated it with correct frontend Logic, Added Middlewares ,route-protection ,navigation,image-upload using multer and improved Ui-design',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671562261/portfolio/projects/fashion/Screenshot_2022-12-20_at_20.45.27_peyqly.jpg',
+      src: 'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719658583/Screenshot_146_jidz1t.png',
       placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+        'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719658583/Screenshot_146_jidz1t.png',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/rn-fashion?serviceType=classic&distribution=expo-go',
-      repo: 'https://github.com/vsnaichuk/fashion-app',
+      site: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://event.iitg.ac.in/8icragee/cs&ved=2ahUKEwivsNK__ICHAxVtWGwGHdhlAvAQFnoECCEQAQ&usg=AOvVaw0qAAYpqcwprU3LjntZmK1T',
+      repo: '',
     },
     technologies: [
       '#typescript',
@@ -67,43 +67,20 @@ const data = [
       '#react-navigation',
     ],
   },
+
   {
     id: '4',
-    title: 'Apiko Marketplace',
+    title: 'swc/Portfolio_builder',
     description:
-      'An online marketplace made with React. The project was developed on 8th Apiko Intensive.',
-    image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
-    },
-    links: {
-      site: 'https://apiko-marketplace-app-snaichuk.herokuapp.com/',
-      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
-    },
-    technologies: [
-      '#react',
-      '#redux',
-      '#socket.io',
-      '#scss',
-      '#formik',
-      '#react-window',
-      '#restapi',
-    ],
-  },
-  {
-    id: '5',
-    title: 'Places App',
-    description:
-      'A MERN app to let users share their experience of places along with Details. It is user friendly and can be useful to many others.',
+      'A MERN web-app to build Portfolio on the go with user Input',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348070/portfolio/projects/mern-places/mern-places-lg_xf6zom.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://yourplaces-sv.netlify.app/',
-      repo: 'https://github.com/vsnaichuk/MERN-places',
+      site: 'https://github.com/swciitg/PortfolioBuilder',
+
     },
     technologies: [
       '#react',
@@ -118,77 +95,29 @@ const data = [
     ],
   },
   {
-    id: '6',
-    title: 'eCommerce Mobile App',
+    id: '5',
+    title: 'Draggable Todo',
     description:
-      'A Mobile eCommerce application built with React Native that includes cart functionality, push notifications, user authentication and user orders',
+      'A simple Application to segregate your learnings wit a easy dragging option',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-shop/rn-shop-lg_fofglf.jpg',
+      src: 'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719669449/Screenshot_151_o0ams9.png',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/online-shop-app',
-      repo: 'https://github.com/vsnaichuk/RN-shop',
-    },
-    technologies: [
-      '#react-native',
-      'expo',
-      '#redux',
-      '#redux-toolkit',
-      '#react-navigation',
-      '#nodejs',
-      '#express',
-      '#mongodb',
-    ],
-  },
-  {
-    id: '7',
-    title: 'Places Mobile App',
-    description:
-      'A Mobile application for sharing places that people visit from all over the world. Uses React Native, TypeScript, MobX and Native Device Features',
-    image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-places/rn-places-lg_ljyikm.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
-    },
-    links: {
-      site: 'https://expo.dev/@v_snaichuk/rn-places',
-      repo: 'https://github.com/vsnaichuk/RN-places',
-    },
-    technologies: [
-      '#react-native',
-      '#typescript',
-      '#expo',
-      '#mobx',
-      '#sqlite',
-      '#react-native-maps',
-      '#expo-location',
-    ],
-  },
-  {
-    id: '8',
-    title: 'Shopping Cart',
-    description:
-      'Simple eCommerce cart application built with React and TypeScript. Uses SWR hook to fetch the data from the API and Styled Components',
-    image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/react-shop-cart/rn-shop-cart-lg_w3qxn6.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
-    },
-    links: {
-      site: 'https://shopping-cart-sv.netlify.app/',
-      repo: 'https://github.com/vsnaichuk/React-ShoppingCart',
+      site: 'https://draagabletodo-2.onrender.com/https://draagabletodo-2.onrender.com/',
+      repo: 'https://github.com/AnuragTheCoder/dragaable-todo',
     },
     technologies: [
       '#react',
-      '#typescript',
-      '#material-ui',
-      '#styled-components',
-      '#swr',
-      '#fakestoreapi',
+      'HTML',
+      '#CSS',
+      '#Javascript',
+      '#react-navigation',
+
     ],
   },
+
 ];
 
 export default data;

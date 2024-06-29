@@ -21,7 +21,7 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a React Developer with one year of
+              I'm a Full-Stack Developer with one year of
               experience <br />
               creating web-apps  Android, and Web
               platforms.

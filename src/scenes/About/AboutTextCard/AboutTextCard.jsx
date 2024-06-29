@@ -6,17 +6,17 @@ const AboutTextCard = () => {
     <div className={s.card}>
       <p style={{ textAlign: 'justify' }}>
         Hi Everyone, I am{' '}
-        <span className={s.purple}>Anurag Jha</span>
-        from <span className={s.purple}>Madhubani, India</span>
+        <span className={s.purple}>Anurag Jha </span>
+        from <span className={s.purple}> Indian Institute Of Technology, Guwahati</span>
         <br />
-        Software engineer with expertise in cross-platform development{' '}
+        Engineering with expertise in cross-platform development{' '}
         <br />
         using MERN stack.
         <br />
         <br />
         I have a Bachelor's of Technology degree in Biotechnology from IIT Guwahati and
         <br />
-        I love to develop web-apps.
+        I love to develop web-apps and solve Data Structures and Algorithms in C++.
         <br />
         <br />
         Apart from coding, some other activities that I love to do!
