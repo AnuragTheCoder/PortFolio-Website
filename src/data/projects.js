@@ -11,6 +11,7 @@ const data = [
     },
     links: {
       site: 'https://aero-management-3.onrender.com/',
+      repo: 'https://github.com/AnuragTheCoder/Aero-Management',
     },
     technologies: [
       '#javascript',
@@ -106,7 +107,7 @@ const data = [
     },
     links: {
       site: 'https://draagabletodo-2.onrender.com/https://draagabletodo-2.onrender.com/',
-      repo: 'https://github.com/AnuragTheCoder/dragaable-todo',
+      repo: 'https://github.com/AnuragTheCoder/DraagableTodo',
     },
     technologies: [
       '#react',
