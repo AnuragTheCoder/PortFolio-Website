@@ -27,7 +27,7 @@ const data = [
     id: '2',
     title: 'News-Setinment-Analysis',
     description:
-      'Codin club roup project to analyse sentiment of the news',
+      'Coding club group project to analyse sentiment of the news',
     image: {
       src: 'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719667612/Screenshot_246_laoxoj.png',
       placeholderSrc:
