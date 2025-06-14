@@ -97,17 +97,17 @@ const data = [
   },
   {
     id: '5',
-    title: 'Draggable Todo',
+    title: 'MERN Stack Web-Chat-Application',
     description:
-      'A simple Application to segregate your learnings wit a easy dragging option',
+      'A Application to Chat With Your nFriends make groups send photos and files,become Admin,handle data',
     image: {
-      src: 'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1719669449/Screenshot_151_o0ams9.png',
+      src: 'https://res-console.cloudinary.com/dxfeq2yxo/thumbnails/v1/image/upload/v1749917742/U2NyZWVuc2hvdF8yMDI1LTA2LTE0XzIxNDUyNV91cmJxamc=/drilldown',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://draagabletodo-2.onrender.com/https://draagabletodo-2.onrender.com/',
-      repo: 'https://github.com/AnuragTheCoder/DraagableTodo',
+      site: 'https://chatapp-frontend-two-chi.vercel.app',
+      repo: 'https://github.com/AnuragTheCoder/DynamicSocketChat',
     },
     technologies: [
       '#react',
