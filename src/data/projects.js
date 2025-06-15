@@ -103,7 +103,7 @@ const data = [
     image: {
       src: 'https://res-console.cloudinary.com/dxfeq2yxo/thumbnails/v1/image/upload/v1749917742/U2NyZWVuc2hvdF8yMDI1LTA2LTE0XzIxNDUyNV91cmJxamc=/drilldown',
       placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+        'https://res-console.cloudinary.com/dxfeq2yxo/thumbnails/v1/image/upload/v1749917742/U2NyZWVuc2hvdF8yMDI1LTA2LTE0XzIxNDUyNV91cmJxamc=/drilldown',
     },
     links: {
       site: 'https://chatapp-frontend-two-chi.vercel.app',
