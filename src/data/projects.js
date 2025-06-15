@@ -114,6 +114,11 @@ const data = [
       'HTML',
       '#CSS',
       '#Javascript',
+      '#socket.io',
+      '#mongoDB',
+      '#Express',
+      '#MaterialUI',
+      'Node.js',
       '#react-navigation',
 
     ],
