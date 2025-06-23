@@ -99,11 +99,11 @@ const data = [
     id: '5',
     title: 'MERN Stack Web-Chat-Application',
     description:
-      'A Application to Chat With Your nFriends make groups send photos and files,become Admin,handle data',
+      'An Application to Chat With Your Friends make groups,send photos and files,become Admin,handle data',
     image: {
-      src: 'https://res-console.cloudinary.com/dxfeq2yxo/thumbnails/v1/image/upload/v1749917742/U2NyZWVuc2hvdF8yMDI1LTA2LTE0XzIxNDUyNV91cmJxamc=/drilldown',
+      src: 'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1749917742/Screenshot_2025-06-14_214525_urbqjg.png',
       placeholderSrc:
-        'https://res-console.cloudinary.com/dxfeq2yxo/thumbnails/v1/image/upload/v1749917742/U2NyZWVuc2hvdF8yMDI1LTA2LTE0XzIxNDUyNV91cmJxamc=/drilldown',
+        'https://res.cloudinary.com/dxfeq2yxo/image/upload/v1749917742/Screenshot_2025-06-14_214525_urbqjg.png',
     },
     links: {
       site: 'https://chatapp-frontend-two-chi.vercel.app',
